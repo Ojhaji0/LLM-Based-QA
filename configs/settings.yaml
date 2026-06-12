@@ -1,0 +1,43 @@
+llm:
+  backend: "ollama"                        # "ollama" | "openai"
+  model: "llama3.2:3b"                     # 2.0 GB VRAM — fits RTX 3050 6GB
+  temperature: 0.1
+  max_tokens: 512
+
+embedding:
+  model: "sentence-transformers/all-MiniLM-L6-v2"
+  batch_size: 32                           # 16GB RAM constraint
+  device: "cuda"                           # RTX 3050 — CUDA verified
+
+chunking:
+  strategy: "recursive"                    # "recursive" | "fixed"
+  chunk_size: 512
+  chunk_overlap: 50
+  separators: ["\n\n", "\n", ". ", " ", ""]
+
+retrieval:
+  k_dense: 20                             # candidates from SBERT
+  k_sparse: 20                            # candidates from BM25
+  k_rerank: 5                             # final after reranker
+  cosine_threshold: 0.35
+  use_hybrid: true
+  use_reranker: true
+
+hnsw:
+  M: 16
+  ef_construction: 200
+
+reranker:
+  model: "BAAI/bge-reranker-base"
+  device: "cpu"                            # CPU — no VRAM conflict with Ollama
+
+paths:
+  raw_pdfs: "D:/projects_with_GPT/LLM-Based_Q&A/data/raw_pdfs"
+  vectorstore: "D:/projects_with_GPT/LLM-Based_Q&A/vectorstore"
+  eval_synthetic: "D:/projects_with_GPT/LLM-Based_Q&A/data/eval/qa_pairs_synthetic.json"
+  eval_adversarial: "D:/projects_with_GPT/LLM-Based_Q&A/data/eval/qa_pairs_adversarial.json"
+  logs: "D:/projects_with_GPT/LLM-Based_Q&A/logs"
+
+api:
+  host: "0.0.0.0"
+  port: 8000

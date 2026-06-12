@@ -1,0 +1,7 @@
+{
+    "venvPath": "D:\\rag_qa",
+    "venv": ".venv",
+    "pythonVersion": "3.10",
+    "include": ["src"],
+    "typeCheckingMode": "basic"
+}

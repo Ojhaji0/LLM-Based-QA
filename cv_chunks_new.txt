@@ -1,0 +1,35 @@
+AI and ML Intern May 2025 – Dec 2025 RMSO Services Private Limited Lucknow, India
+---
+Completed multiple industry-recognized certifications in AI/ML, cloud computing, and deep learning, demonstrating commitment to continuous learning and staying current with emerging technologies Active contributor to AI/ML research projects focusing on NLP and computer vision applications in cultural heritage preservation and ecological data analysis
+---
+• Conducted comprehensive model evaluation using precision, recall, and F1-score metrics, presenting findings to stakeholders and implementing iterative improvements based on performance analysis
+---
+Amity University Lucknow Campus Lucknow, India Bachelor of Technology in Artificial Intelligence; CGPA: 7.99 Sep 2022 – Jun 2026
+---
+• Designed and launched data-driven email campaigns using segmentation and A/B testing, increasing open rates by 25% and click-through rates by 15%, resulting in 10% growth in customer engagement
+---
+Leadership & Activities
+---
+• Built searchable database interface with optimized indexing and retrieval system, reducing query response time by 60% and enabling efficient access to genealogical and ritual information for researchers
+---
+Digital Marketing Intern Jan 2023 – Jul 2023 A2Z Journals, Global Education and Research Institute (Virtual) Remote
+---
+Ayush Ojha 7347702348 | ayush.ojhalko@gmail.com | linkedin.com/in/ayushojha | Lucknow, UP, India
+---
+• Engineered NLP pipeline implementing entity recognition and relation extraction to identify names, familial relationships, and ritual details from unstructured Hindi text, improving data extraction accuracy by 40%
+---
+• Developed end-to-end OCR pipeline for digitizing handwritten Hindi manuscripts, processing 10,000+ pages with 85% accuracy using custom image preprocessing algorithms and deep learning models
+---
+AI Intern Dec 2024 – Jan 2025 Microsoft, SAP, AICTE, and Edunet (Virtual) Remote
+---
+• Optimized AI/ML models through hyperparameter tuning and data augmentation techniques, achieving 30% improvement in inference speed while maintaining model accuracy for production deployment
+---
+Hindi Manuscript Digitization System : Developed comprehensive OCR and NLP system for extracting genealogical data from handwritten Hindi manuscripts, featuring custom preprocessing, text recognition, and entity extraction capabilities with searchable database interface Human Pose Estimation Enhancement : Improved real-time pose estimation model for fitness applications by 15 percentage points through architecture optimization and transfer learning, achieving 30 FPS on standard hardware
+---
+• Enhanced Human Pose Estimation model accuracy from 75% to 90% by implementing advanced CNN architectures and data augmentation strategies, enabling real-time performance for fitness and gaming applications
+---
+Languages : Python, SQL, LaTeX AI/ML Frameworks : TensorFlow, PyTorch, Scikit-learn, OpenCV, Keras, Hugging Face Transformers NLP & Computer Vision : OCR (Tesseract, EasyOCR), Entity Recognition, Relation Extraction, Image Preprocessing, Human Pose Estimation Cloud & Databases : Google Cloud Platform (GCP), Oracle AI Vector Search, SQL/NoSQL Databases Tools & Technologies : Git, Docker, Jupyter, pandas, NumPy, Remote Sensing Analytics, Ecological Data Analysis Certifications : Google Cloud Digital Leader (AI/ML), Encoder-Decoder Architecture, Oracle AI Vector Search Professional, GeoData Processing, Deep Learning in Ecological Studies
+---
+• Implemented advanced email segmentation strategies using customer behavior analytics, improving open rates by 20% and reducing unsubscribe rates by 12% through personalized content delivery
+---
+• Collaborated with 5 industry experts to integrate emerging AI tools and frameworks, improving project workflow efficiency by 15% through automated preprocessing and model deployment pipelines
