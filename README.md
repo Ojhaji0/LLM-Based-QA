@@ -4,6 +4,12 @@ A fully local Retrieval-Augmented Generation (RAG) question-answering system bui
 
 ---
 
+## Demo
+
+![UniRAG Web UI](docs/demo.png)
+
+---
+
 ## Features
 
 - **Hybrid Retrieval** — BM25 sparse + dense (SBERT) retrieval combined for best recall
